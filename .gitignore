@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+.venv/
+.env
+dist/
+<<<<<<< HEAD
+.angular/
+=======
+.angular/
+>>>>>>> 2f4dfbd5c96e68528c898dd8027d6256782c719c
